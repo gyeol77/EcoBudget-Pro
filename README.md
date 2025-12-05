@@ -43,13 +43,11 @@ Streamlit 기반 인터페이스를 활용해 CSV 데이터를 업로드하면 �
 ### 1) Visualization 화면
 
 <p align="center">
-  <img src="images/Visualization.png" width="700">
+  <img src="EcoBudget%20Pro/images/Visualization.png" width="700">
 </p>
 
-### 2) EcoScore 화면
-
 <p align="center">
-  <img src="images/EcoScore.png" width="700">
+  <img src="EcoBudget%20Pro/images/EcoScore.png" width="700">
 </p>
 
 ---
