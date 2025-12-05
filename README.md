@@ -95,16 +95,37 @@ Streamlit 기반 인터페이스를 활용해 CSV 데이터를 업로드하면 �
 
 ### 1) requirements 설치
 
-    pip install -r requirements.txt
+프로젝트 실행에 필요한 패키지는 'requirements.txt' 파일에 포함되어 있습니다.  
+해당 파일은 아래 경로에 위치합니다:
+
+    EcoBudget Pro/requirements.txt
+
+아래 명령어로  설치할 수 있습니다:
+
+    pip install -r "EcoBudget Pro/requirements.txt"
 
 ### 2) Streamlit 앱 실행
 
-    streamlit run app.py
+아래 명령어로 애플리케이션을 실행합니다:
 
-브라우저에서 자동으로 페이지가 열립니다. 
-기본 주소는 다음과 같습니다.
+    streamlit run "EcoBudget Pro/app.py"
+
+기본 접속 주소:
 
     http://localhost:8501
+
+---
+
+### 📂 샘플 데이터 (Sample Data)
+
+테스트용 CSV 파일이 `assets/` 폴더에 포함되어 있습니다.
+
+- **파일명:** `sample_data.csv`  
+- **위치:** `assets/sample_data.csv`
+
+이 파일을 **Upload 페이지에서 업로드하면**,  
+전체 분석 기능을 바로 체험할 수 있습니다.
+(카테고리 자동 분류 → 탄소 배출량 계산 → 시각화 → EcoScore → 추천)
 
 ---
 
