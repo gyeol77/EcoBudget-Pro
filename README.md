@@ -40,18 +40,16 @@ Streamlit 기반 인터페이스를 활용해 CSV 데이터를 업로드하면 �
 
 ## 📸 예시 화면 (Screenshots)
 
-### 1) Visualization 화면  
-카테고리별 소비 내역과 탄소 배출량을 테이블과 그래프로 시각화한 화면입니다.
+### 1) Visualization 화면
 
 <p align="center">
-  <img src="EcoBudget pro/images/Visualization.png" width="700">
+  <img src="images/Visualization.png" width="700">
 </p>
 
-### 2) EcoScore 화면  
-총 탄소 배출량 기반 친환경 점수(EcoScore)를 확인하고 등급(A~D)을 볼 수 있는 화면입니다.
+### 2) EcoScore 화면
 
 <p align="center">
-  <img src="EcoBudget pro/images/EcoScore.png" width="700">
+  <img src="images/EcoScore.png" width="700">
 </p>
 
 ---
