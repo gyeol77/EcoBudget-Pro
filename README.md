@@ -54,7 +54,7 @@ Streamlit 기반 인터페이스를 활용해 CSV 데이터를 업로드하면 �
 
 ## 🧱 프로젝트 구조 (Project Structure)
 
-    EcoBudget-Pro/
+    EcoBudget Pro/
     ├─ app.py                    # 메인 소개 페이지
     ├─ pages/
     │  ├─ 1_Upload_Data.py       # CSV 업로드 및 전처리
